@@ -1,27 +1,28 @@
 ## Hi there 👋
 # 👋 Hello, I'm Kai Huang (Harry)!
 
-🚀 **AI & Machine Learning Enthusiast | Computer Science Student | Major in Artificial Intelligence **  
+🚀 **AI & Machine Learning Enthusiast | Computer Science Student | Major in Artificial Intelligence | Eager to Learn **  
 
-I’m passionate about **Artificial Intelligence, Machine Learning, and Software Development**. Currently, I'm studying **Computer Science (Artificial Intelligence) at the University of Malaya** and working on exciting projects related to **AI chatbots, data science, and full-stack development**.  
+I'm a **junior in the world of AI and software development**, eager to explore **Machine Learning, AI Chatbots, and Data Science**. Currently, I'm studying **Computer Science (Artificial Intelligence) at the University of Malaya** and working on small projects to **improve my coding skills and problem-solving abilities**.  
 
 ---
+---
 
-## 🔥 What I Do  
+## 🌱 **Currently Learning**  
 💡 **AI & ML** – Building AI chatbots, machine learning models, and generative AI applications  
 📊 **Data Science** – Data analysis, visualization, and predictive modeling  
 💻 **Software Development** – Python, Java, and Web Development (HTML, CSS, JavaScript)  
 
 ---
 
-## 🚀 Current Projects  
-🔹 **AI Chatbox** – Developing a chatbot using Hugging Face & OpenAI models  
+## 🚀 **My First Projects**  
+🔹 **AI Chatbox** – Developing a simple chatbot using Hugging Face & OpenAI models  
 🔹 **Data Science Exploration** – Working with **scikit-learn**, **Pandas**, and **Kaggle datasets**  
 🔹 **Full-Stack Development** – Building interactive web applications  
 
 ---
 
-## 📚 Tech Stack  
+## 📚 **Tech Stack  (Still Learning 🚀)**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
@@ -33,19 +34,27 @@ I’m passionate about **Artificial Intelligence, Machine Learning, and Software
 
 ---
 
-## 🌱 Learning & Interests  
+## 🌱 **Learning & Interests** 
 🔹 **Machine Learning & Deep Learning & NLP** – Experimenting with **transformers & LLMs**  
 🔹 **Software Engineering** – Building scalable applications  
 
 ---
 
-## 📫 Connect with Me  
+## 🎯 **My Goal as a Fresh Junior**  
+- ✅ Build **simple but functional AI models**  
+- ✅ Improve **problem-solving skills in coding**  
+- ✅ Contribute to **open-source projects**  
+- ✅ Gain **real-world experience in AI & software development**
+
+---
+  
+## 📫 **Let's Connect** 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cheng-kai-huang-913240201/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/KaiHuang05)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harrycheng280505@gmail.com)  
 
 ---
 
-### 💡 "Code, Innovate, and Build the Future with AI!"  
+### 🌟 *"Every expert was once a beginner – excited to grow and learn!"*  
 
-🔔 **Follow me for more exciting projects & AI experiments!**  
+🔔 **Follow me as I document my learning journey and build cool projects!** 🚀
