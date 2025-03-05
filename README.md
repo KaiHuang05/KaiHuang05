@@ -30,8 +30,8 @@ Currently, I'm studying **Computer Science (Artificial Intelligence) at the Univ
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-
 ![Bootstrap 5](https://img.shields.io/badge/-Bootstrap%205-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD700?style=flat&logo=huggingface&logoColor=black)  
 ![scikit-learn](https://img.shields.io/badge/-scikit%20learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=black)
