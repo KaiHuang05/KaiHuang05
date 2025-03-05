@@ -3,7 +3,8 @@
 
 🚀 **AI & Machine Learning Enthusiast | Computer Science Student | Major in Artificial Intelligence | Eager to Learn**  
 
-I'm a **junior in the world of AI and software development**, eager to explore **Machine Learning, AI Chatbots, and Data Science**. Currently, I'm studying **Computer Science (Artificial Intelligence) at the University of Malaya** and working on small projects to **improve my coding skills and problem-solving abilities**.  
+**I'm a **junior in the world of AI and software development**, eager to explore **Machine Learning, AI Chatbots, and Data Science**. Currently, I'm studying **Computer Science (Artificial Intelligence) at the University of Malaya** and working on small projects to **improve my coding skills and problem-solving abilities**.  
+**CGPA: 4.0/4.0**
 ---
 ---
 
