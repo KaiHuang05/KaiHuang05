@@ -8,7 +8,7 @@ Currently, I'm studying **Computer Science (Artificial Intelligence) at the Univ
 
 ---
 
-** 💻 Hackathon Experience & Titles**
+## **💻 Hackathon Experience & Titles**
 
 | **Position** | **Hackathon** | **Organizers & Sponsors** | **Link(s)** | **Descriptions** |
 |--------------|--------------|---------------------------|-------------|------------------|
@@ -18,7 +18,8 @@ Currently, I'm studying **Computer Science (Artificial Intelligence) at the Univ
 | Participant | UM Internal Hackathon 2024 (University level) | **Organizer**: Computer Society of University Malaya (PEKOM) | [GitHub Repo](https://github.com/KaiHuang05/UM-Internal-Hackaton-) | The first-ever hackathon to feature a fully functional website for seamless food ordering and delivery, designed to address the limitations of ordering food via WhatsApp or Google Forms. |
 
 ---
-** 🌏 My Little Contributions to the Community**
+
+## **🌏 My Little Contributions to the Community**
 - 🎤 Program & Protocol Committee member and emcee for Programming League National (PLN) 2025, one of Malaysia’s largest annual national-level competitive programming championships for university students.
 - 🗽 Activity & Welfare Director for the Computer Society of University Malaya (PEKOM) — the largest IT-related society in UM (3K social media followers, 1K+ active members) and one of the top IT societies among Malaysian universities — leading events that enrich CS and IT students in UM and nationwide.
 - 👨🏻‍💻 Higher education advisor and speaker for a CS-focused education talk, organizing a 200-person community event for pre-university students interested in the computer science field.
