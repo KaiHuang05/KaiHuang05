@@ -10,11 +10,12 @@ Currently, I'm studying **Computer Science (Artificial Intelligence) at the Univ
 
 ** 💻 Hackathon Experience & Titles**
 
-|**Position** |**Hackathon** |**Organizers & Sponsors** |**Link(s)** |**Descriptions** |
-|Champion |DEVMatch Hackathon 2025 (National level) |**Organizer**: Asia Pacific University Blockchain & Cryptocurrency Club (APUBCC)<br>**Sponsor**: Sui |https://github.com/KaiHuang05/DevMatch-hokkien-mee-is-red-and-black|An AI-powered, zero-fraud on-chain marketplace with a secure ecosystem for NFT trading, designed for users of all skill levels. |
-|Champion|UM DataHacks 2025 (University level)|**Organizer**: Universiti Malaya Data Analytic Club (UMDAC)|https://github.com/KaiHuang05/DataHacks2025-AI-Powered-EDA-AI-Chat-Assistant|A multi-AI agents-powered Exploratory Data Analysis platform that intelligently performs data analysis and automatically web-scrapes additional relevant information to enrich insights.|
-|Participant|UM Hackathon 2025 (National level)|**Organizer**: UM Hackathon, Computer Society of University Malaya (PEKOM)<br>**Sponsor**: Grab|https://github.com/KaiHuang05/Grab-Mex-AI-Assistant|An advanced RAG chatbot agent that transforms queries into interactive visual analytics and context-rich insights for deeper understanding.|
-|Participant|UM Internal Hackathon 2024 (University level)|**Organizer**: Computer Society of University Malaya (PEKOM)|https://github.com/KaiHuang05/UM-Internal-Hackaton-|The first-ever hackathon to feature a fully functional website for seamless food ordering and delivery.The first-ever hackathon to feature a fully functional food ordering and delivery website, designed to address the limitations of ordering food via WhatsApp or Google Forms.|
+| **Position** | **Hackathon** | **Organizers & Sponsors** | **Link(s)** | **Descriptions** |
+|--------------|--------------|---------------------------|-------------|------------------|
+| Champion | DEVMatch Hackathon 2025 (National level) | **Organizer**: Asia Pacific University Blockchain & Cryptocurrency Club (APUBCC)<br>**Sponsor**: Sui | [GitHub Repo](https://github.com/KaiHuang05/DevMatch-hokkien-mee-is-red-and-black) | An AI-powered, zero-fraud on-chain marketplace with a secure ecosystem for NFT trading, designed for users of all skill levels. |
+| Champion | UM DataHacks 2025 (University level) | **Organizer**: Universiti Malaya Data Analytic Club (UMDAC) | [GitHub Repo](https://github.com/KaiHuang05/DataHacks2025-AI-Powered-EDA-AI-Chat-Assistant) | A multi-AI agents-powered Exploratory Data Analysis platform that intelligently performs data analysis and automatically web-scrapes additional relevant information to enrich insights. |
+| Participant | UM Hackathon 2025 (National level) | **Organizer**: UM Hackathon, Computer Society of University Malaya (PEKOM)<br>**Sponsor**: Grab | [GitHub Repo](https://github.com/KaiHuang05/Grab-Mex-AI-Assistant) | An advanced RAG chatbot agent that transforms queries into interactive visual analytics and context-rich insights for deeper understanding. |
+| Participant | UM Internal Hackathon 2024 (University level) | **Organizer**: Computer Society of University Malaya (PEKOM) | [GitHub Repo](https://github.com/KaiHuang05/UM-Internal-Hackaton-) | The first-ever hackathon to feature a fully functional website for seamless food ordering and delivery, designed to address the limitations of ordering food via WhatsApp or Google Forms. |
 
 ---
 ** 🌏 My Little Contributions to the Community**
