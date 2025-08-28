@@ -20,10 +20,10 @@ Currently, I'm studying **Computer Science (Artificial Intelligence) at the Univ
 ---
 
 ## **🌏 My Little Contributions to the Community**
-- 🎤 Program & Protocol Committee member and emcee for Programming League National (PLN) 2025, one of Malaysia’s largest annual national-level competitive programming championships for university students.
-- 🗽 Activity & Welfare Director for the Computer Society of University Malaya (PEKOM) — the largest IT-related society in UM (3K social media followers, 1K+ active members) and one of the top IT societies among Malaysian universities — leading events that enrich CS and IT students in UM and nationwide.
-- 👨🏻‍💻 Higher education advisor and speaker for a CS-focused education talk, organizing a 200-person community event for pre-university students interested in the computer science field.
-- 🏅 Contest Protocol Committee member for the Dean's Cup, Faculty of Computer Science and Information Technology, Universiti Malaya — an annual sports event encouraging CS students to balance academic excellence with quality of life through sports.
+- 🎤 **Program & Protocol Committee member and emcee for Programming League National (PLN) 2025**, one of Malaysia’s largest annual national-level competitive programming championships for university students.
+- 🗽 **Activity & Welfare Director for the Computer Society of University Malaya (PEKOM)** — the largest IT-related society in UM (3K social media followers, 1K+ active members) and one of the top IT societies among Malaysian universities — leading events that enrich CS and IT students in UM and nationwide.
+- 👨🏻‍💻 **Higher education advisor and speaker** for a CS-focused education talk, organizing a 200-person community event for pre-university students interested in the computer science field.
+- 🏅 **Contest Protocol Committee member for the Dean's Cup**, Faculty of Computer Science and Information Technology, Universiti Malaya — an annual sports event encouraging CS students to balance academic excellence with quality of life through sports.
 
 ---
 
